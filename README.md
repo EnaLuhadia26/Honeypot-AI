@@ -28,10 +28,10 @@ honeypot-project/
 ├── requirements.txt # Dependencies
 
 ## Dashboard Preview
-Pie Chart: Requests by Path
-Bar Chart: Requests by Method
-Bar Chart: Top Attacking IPs
-Table: Expandable Raw Logs
+- Pie Chart: Requests by Path
+- Bar Chart: Requests by Method
+- Bar Chart: Top Attacking IPs
+- Table: Expandable Raw Logs
 
 ## Author
 Ena Luhadia
